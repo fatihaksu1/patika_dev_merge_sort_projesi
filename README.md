@@ -23,3 +23,6 @@
 ```
 O(nlogn)
 ```
+
+[Patika dev'e gitmek için](https://www.patika.dev/tr)
+[Profilime gitmek için](https://app.patika.dev/fatihaksu)
